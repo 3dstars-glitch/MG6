@@ -1,0 +1,1768 @@
+fileFormatVersion: 2
+guid: 03822b9adf3894162aa209fcee96de24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7928624671666114862
+    second: cat_fighter_updated_0
+  - first:
+      213: 6273180397017853670
+    second: cat_fighter_updated_1
+  - first:
+      213: -3264231662925968112
+    second: cat_fighter_updated_2
+  - first:
+      213: 4512302515260539533
+    second: cat_fighter_updated_3
+  - first:
+      213: 8532949621997742319
+    second: cat_fighter_updated_4
+  - first:
+      213: 7505445271287996668
+    second: cat_fighter_updated_5
+  - first:
+      213: -1233364719833264465
+    second: cat_fighter_updated_6
+  - first:
+      213: -7301018348856016266
+    second: cat_fighter_updated_7
+  - first:
+      213: -4727685973102535443
+    second: cat_fighter_updated_8
+  - first:
+      213: 3487936111999082937
+    second: cat_fighter_updated_9
+  - first:
+      213: -4411970383515766776
+    second: cat_fighter_updated_10
+  - first:
+      213: 5188143789535923953
+    second: cat_fighter_updated_11
+  - first:
+      213: -6518805592546128382
+    second: cat_fighter_updated_12
+  - first:
+      213: -5283862685104980754
+    second: cat_fighter_updated_13
+  - first:
+      213: 6906977249526298169
+    second: cat_fighter_updated_14
+  - first:
+      213: 7345066049337132908
+    second: cat_fighter_updated_15
+  - first:
+      213: -961691283634793441
+    second: cat_fighter_updated_16
+  - first:
+      213: 71883968252828500
+    second: cat_fighter_updated_17
+  - first:
+      213: 2612601826636135145
+    second: cat_fighter_updated_18
+  - first:
+      213: -680616017320357113
+    second: cat_fighter_updated_19
+  - first:
+      213: 5405765303886572928
+    second: cat_fighter_updated_20
+  - first:
+      213: -8445228184987307986
+    second: cat_fighter_updated_21
+  - first:
+      213: -5097101682895550845
+    second: cat_fighter_updated_22
+  - first:
+      213: 5289840829411230163
+    second: cat_fighter_updated_23
+  - first:
+      213: 5158417343430387871
+    second: cat_fighter_updated_24
+  - first:
+      213: -188789830560280715
+    second: cat_fighter_updated_25
+  - first:
+      213: 5708905787271216468
+    second: cat_fighter_updated_26
+  - first:
+      213: 8739910662875375265
+    second: cat_fighter_updated_27
+  - first:
+      213: 6456637005565552096
+    second: cat_fighter_updated_28
+  - first:
+      213: 5306341808663129904
+    second: cat_fighter_updated_29
+  - first:
+      213: 7594954731647095846
+    second: cat_fighter_updated_30
+  - first:
+      213: 4639794776480810455
+    second: cat_fighter_updated_31
+  - first:
+      213: -8151497501630203277
+    second: cat_fighter_updated_32
+  - first:
+      213: 3678997540321149332
+    second: cat_fighter_updated_33
+  - first:
+      213: -1446351146733336801
+    second: cat_fighter_updated_34
+  - first:
+      213: 6713505553244178935
+    second: cat_fighter_updated_35
+  - first:
+      213: -5194132359004316650
+    second: cat_fighter_updated_36
+  - first:
+      213: -5873599204917977249
+    second: cat_fighter_updated_37
+  - first:
+      213: 9104883628793064680
+    second: cat_fighter_updated_38
+  - first:
+      213: 7939103405052859883
+    second: cat_fighter_updated_39
+  - first:
+      213: 2029016883497953130
+    second: cat_fighter_updated_40
+  - first:
+      213: 735560713012542677
+    second: cat_fighter_updated_41
+  - first:
+      213: -2751432301460505531
+    second: cat_fighter_updated_42
+  - first:
+      213: -5147694525351300386
+    second: cat_fighter_updated_43
+  - first:
+      213: -4243969316418642412
+    second: cat_fighter_updated_44
+  - first:
+      213: 4750115757147220870
+    second: cat_fighter_updated_45
+  - first:
+      213: 7630142070720501007
+    second: cat_fighter_updated_46
+  - first:
+      213: 1895482825964166325
+    second: cat_fighter_updated_47
+  - first:
+      213: -1363719082845596318
+    second: cat_fighter_updated_48
+  - first:
+      213: -8300632605164112788
+    second: cat_fighter_updated_49
+  - first:
+      213: -1478203477110927108
+    second: cat_fighter_updated_50
+  - first:
+      213: -2388108427775002406
+    second: cat_fighter_updated_51
+  - first:
+      213: 1134431444377262732
+    second: cat_fighter_updated_52
+  - first:
+      213: 4485913837573515864
+    second: cat_fighter_updated_53
+  - first:
+      213: -2153817722629353737
+    second: cat_fighter_updated_54
+  - first:
+      213: 1473529027139027993
+    second: cat_fighter_updated_55
+  - first:
+      213: -1039041672516802975
+    second: cat_fighter_updated_56
+  - first:
+      213: -4369021579023251233
+    second: cat_fighter_updated_57
+  - first:
+      213: 3085340265382796717
+    second: cat_fighter_updated_58
+  - first:
+      213: -4509207546946765873
+    second: cat_fighter_updated_59
+  - first:
+      213: 4015290468481346828
+    second: cat_fighter_updated_60
+  - first:
+      213: 2034497021823234826
+    second: cat_fighter_updated_61
+  - first:
+      213: -4773308915596213092
+    second: cat_fighter_updated_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cat_fighter_updated_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 459
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e219e089122280e60800000000000000
+      internalID: 7928624671666114862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 459
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee61389550de0750800000000000000
+      internalID: 6273180397017853670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 459
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d07b2e89e13b2d0800000000000000
+      internalID: -3264231662925968112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 459
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82c43dfa3bee9e30800000000000000
+      internalID: 4512302515260539533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 459
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8aa71c8702b6670800000000000000
+      internalID: 8532949621997742319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_5
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 459
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0a14c65b2b82860800000000000000
+      internalID: 7505445271287996668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 459
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faec6db625532eee0800000000000000
+      internalID: -1233364719833264465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_7
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 461
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67204d18e729daa90800000000000000
+      internalID: -7301018348856016266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_8
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 461
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec50a3e7a2e36eb0800000000000000
+      internalID: -4727685973102535443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 462
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b166faf963a76030800000000000000
+      internalID: 3487936111999082937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 409
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800bff2df4885c2c0800000000000000
+      internalID: -4411970383515766776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 409
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe00f2e94dfff740800000000000000
+      internalID: 5188143789535923953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 409
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e45780adc8885a0800000000000000
+      internalID: -6518805592546128382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 409
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec306c02e2fba6b0800000000000000
+      internalID: -5283862685104980754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 409
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93638b5b6338adf50800000000000000
+      internalID: 6906977249526298169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_15
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 409
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c678582f7aaeee560800000000000000
+      internalID: 7345066049337132908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_16
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 409
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14db5f6fd267a2f0800000000000000
+      internalID: -961691283634793441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_17
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 409
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b51c896126ff000800000000000000
+      internalID: 71883968252828500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_18
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 409
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eafe28e483d14420800000000000000
+      internalID: 2612601826636135145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_19
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 409
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703dd2b9657fd86f0800000000000000
+      internalID: -680616017320357113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_20
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 411
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d6a4527e2250b40800000000000000
+      internalID: 5405765303886572928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 359
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20f6b2e5b58cca80800000000000000
+      internalID: -8445228184987307986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 359
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38607f666057349b0800000000000000
+      internalID: -5097101682895550845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_23
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 359
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d10a63253a496940800000000000000
+      internalID: 5289840829411230163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_24
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 359
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98e16e4e31669740800000000000000
+      internalID: 5158417343430387871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_25
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 359
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f8f3c36a8416df0800000000000000
+      internalID: -188789830560280715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 359
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45df872019b1a3f40800000000000000
+      internalID: 5708905787271216468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_27
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 359
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6e55d11766a4970800000000000000
+      internalID: 8739910662875375265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_28
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 359
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e56068d5259a9950800000000000000
+      internalID: 6456637005565552096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 359
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f6b22c2c9e3a940800000000000000
+      internalID: 5306341808663129904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_30
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 360
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6245ff0b613b66960800000000000000
+      internalID: 7594954731647095846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_31
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 310
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d50ada34ccd36040800000000000000
+      internalID: 4639794776480810455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_32
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 308
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37af8d3f53010ee80800000000000000
+      internalID: -8151497501630203277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 326
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491c06055cc6e0330800000000000000
+      internalID: 3678997540321149332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 326
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f170b7e8b478debe0800000000000000
+      internalID: -1446351146733336801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_35
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 310
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f94bb22bb92b2d50800000000000000
+      internalID: 6713505553244178935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_36
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 309
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c9f21a32cbae7b0800000000000000
+      internalID: -5194132359004316650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_37
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 309
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fd8dd84a8cc7ea0800000000000000
+      internalID: -5873599204917977249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_38
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 309
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecea7fab6b0b5e70800000000000000
+      internalID: 9104883628793064680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_39
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 309
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be51545db7c5d2e60800000000000000
+      internalID: 7939103405052859883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_40
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 309
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a676a28fa14882c10800000000000000
+      internalID: 2029016883497953130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_41
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 309
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc78d1429c353a00800000000000000
+      internalID: 735560713012542677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_42
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 309
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c39e746e2f0d9d0800000000000000
+      internalID: -2751432301460505531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_43
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 259
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed276345a17bf88b0800000000000000
+      internalID: -5147694525351300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_44
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e953964646a15c0800000000000000
+      internalID: -4243969316418642412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_45
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 259
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68beeba2d1dcbe140800000000000000
+      internalID: 4750115757147220870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_46
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 259
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f051f0f79c5b3e960800000000000000
+      internalID: 7630142070720501007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_47
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc9277669b1e4a10800000000000000
+      internalID: 1895482825964166325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_48
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265119d28b8131de0800000000000000
+      internalID: -1363719082845596318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_49
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 259
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64fa2ecf9a3ecc80800000000000000
+      internalID: -8300632605164112788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_50
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 259
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf05e09f4cd5c7be0800000000000000
+      internalID: -1478203477110927108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_51
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 259
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8ba55a90cbbded0800000000000000
+      internalID: -2388108427775002406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_52
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 259
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ad320636f4ebf00800000000000000
+      internalID: 1134431444377262732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_53
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 209
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a249d2eda214e30800000000000000
+      internalID: 4485913837573515864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_54
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 209
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe8cb3513a1c12e0800000000000000
+      internalID: -2153817722629353737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_55
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 209
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91449d4d7d6037410800000000000000
+      internalID: 1473529027139027993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_56
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 209
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166eeca9a159491f0800000000000000
+      internalID: -1039041672516802975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_57
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 209
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd88d4e950e1e53c0800000000000000
+      internalID: -4369021579023251233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_58
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 209
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadd951ef9451da20800000000000000
+      internalID: 3085340265382796717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_59
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 209
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb3ab970a31c61c0800000000000000
+      internalID: -4509207546946765873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_60
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 209
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0da7db386d29b730800000000000000
+      internalID: 4015290468481346828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_61
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 209
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a033d5a134cfb3c10800000000000000
+      internalID: 2034497021823234826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_fighter_updated_62
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 209
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94cea2d4dcc1cdb0800000000000000
+      internalID: -4773308915596213092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cat_fighter_updated_0: 7928624671666114862
+      cat_fighter_updated_1: 6273180397017853670
+      cat_fighter_updated_10: -4411970383515766776
+      cat_fighter_updated_11: 5188143789535923953
+      cat_fighter_updated_12: -6518805592546128382
+      cat_fighter_updated_13: -5283862685104980754
+      cat_fighter_updated_14: 6906977249526298169
+      cat_fighter_updated_15: 7345066049337132908
+      cat_fighter_updated_16: -961691283634793441
+      cat_fighter_updated_17: 71883968252828500
+      cat_fighter_updated_18: 2612601826636135145
+      cat_fighter_updated_19: -680616017320357113
+      cat_fighter_updated_2: -3264231662925968112
+      cat_fighter_updated_20: 5405765303886572928
+      cat_fighter_updated_21: -8445228184987307986
+      cat_fighter_updated_22: -5097101682895550845
+      cat_fighter_updated_23: 5289840829411230163
+      cat_fighter_updated_24: 5158417343430387871
+      cat_fighter_updated_25: -188789830560280715
+      cat_fighter_updated_26: 5708905787271216468
+      cat_fighter_updated_27: 8739910662875375265
+      cat_fighter_updated_28: 6456637005565552096
+      cat_fighter_updated_29: 5306341808663129904
+      cat_fighter_updated_3: 4512302515260539533
+      cat_fighter_updated_30: 7594954731647095846
+      cat_fighter_updated_31: 4639794776480810455
+      cat_fighter_updated_32: -8151497501630203277
+      cat_fighter_updated_33: 3678997540321149332
+      cat_fighter_updated_34: -1446351146733336801
+      cat_fighter_updated_35: 6713505553244178935
+      cat_fighter_updated_36: -5194132359004316650
+      cat_fighter_updated_37: -5873599204917977249
+      cat_fighter_updated_38: 9104883628793064680
+      cat_fighter_updated_39: 7939103405052859883
+      cat_fighter_updated_4: 8532949621997742319
+      cat_fighter_updated_40: 2029016883497953130
+      cat_fighter_updated_41: 735560713012542677
+      cat_fighter_updated_42: -2751432301460505531
+      cat_fighter_updated_43: -5147694525351300386
+      cat_fighter_updated_44: -4243969316418642412
+      cat_fighter_updated_45: 4750115757147220870
+      cat_fighter_updated_46: 7630142070720501007
+      cat_fighter_updated_47: 1895482825964166325
+      cat_fighter_updated_48: -1363719082845596318
+      cat_fighter_updated_49: -8300632605164112788
+      cat_fighter_updated_5: 7505445271287996668
+      cat_fighter_updated_50: -1478203477110927108
+      cat_fighter_updated_51: -2388108427775002406
+      cat_fighter_updated_52: 1134431444377262732
+      cat_fighter_updated_53: 4485913837573515864
+      cat_fighter_updated_54: -2153817722629353737
+      cat_fighter_updated_55: 1473529027139027993
+      cat_fighter_updated_56: -1039041672516802975
+      cat_fighter_updated_57: -4369021579023251233
+      cat_fighter_updated_58: 3085340265382796717
+      cat_fighter_updated_59: -4509207546946765873
+      cat_fighter_updated_6: -1233364719833264465
+      cat_fighter_updated_60: 4015290468481346828
+      cat_fighter_updated_61: 2034497021823234826
+      cat_fighter_updated_62: -4773308915596213092
+      cat_fighter_updated_7: -7301018348856016266
+      cat_fighter_updated_8: -4727685973102535443
+      cat_fighter_updated_9: 3487936111999082937
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

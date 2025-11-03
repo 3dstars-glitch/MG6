@@ -1,0 +1,2730 @@
+fileFormatVersion: 2
+guid: b907721d96ee5409d933d412942307fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4916032113041243550
+    second: rats_and_bats_0
+  - first:
+      213: -5697328946566945247
+    second: rats_and_bats_1
+  - first:
+      213: -2892364648296380038
+    second: rats_and_bats_2
+  - first:
+      213: 1188621670502749199
+    second: rats_and_bats_3
+  - first:
+      213: -2082181609419625224
+    second: rats_and_bats_4
+  - first:
+      213: -4540879071000812853
+    second: rats_and_bats_5
+  - first:
+      213: 4515276556597033007
+    second: rats_and_bats_6
+  - first:
+      213: -4783392199892526381
+    second: rats_and_bats_7
+  - first:
+      213: -6880383426380920342
+    second: rats_and_bats_8
+  - first:
+      213: 1109450771070342582
+    second: rats_and_bats_9
+  - first:
+      213: -5814191137531130294
+    second: rats_and_bats_10
+  - first:
+      213: 5658099553465531848
+    second: rats_and_bats_11
+  - first:
+      213: 4616107274248745472
+    second: rats_and_bats_12
+  - first:
+      213: -2359130465492348066
+    second: rats_and_bats_13
+  - first:
+      213: 6702860244730025173
+    second: rats_and_bats_14
+  - first:
+      213: 6689797515781828925
+    second: rats_and_bats_15
+  - first:
+      213: -8839304203898674675
+    second: rats_and_bats_16
+  - first:
+      213: -6785708896942453377
+    second: rats_and_bats_17
+  - first:
+      213: -323726079634742125
+    second: rats_and_bats_18
+  - first:
+      213: -1432674945636438113
+    second: rats_and_bats_19
+  - first:
+      213: 8637809715008511749
+    second: rats_and_bats_20
+  - first:
+      213: 2677285011699418379
+    second: rats_and_bats_21
+  - first:
+      213: -1711005670925951014
+    second: rats_and_bats_22
+  - first:
+      213: 6133396249297711086
+    second: rats_and_bats_23
+  - first:
+      213: -1728429576592556297
+    second: rats_and_bats_24
+  - first:
+      213: -4368444768341042728
+    second: rats_and_bats_25
+  - first:
+      213: -2327832160435685262
+    second: rats_and_bats_26
+  - first:
+      213: 2453856607899091713
+    second: rats_and_bats_27
+  - first:
+      213: 51888794777700069
+    second: rats_and_bats_28
+  - first:
+      213: 546300907445715573
+    second: rats_and_bats_29
+  - first:
+      213: -2058033006375187824
+    second: rats_and_bats_30
+  - first:
+      213: 6627714964996427994
+    second: rats_and_bats_31
+  - first:
+      213: -833394826235244655
+    second: rats_and_bats_32
+  - first:
+      213: 8351581740732998511
+    second: rats_and_bats_33
+  - first:
+      213: -9061632625898351353
+    second: rats_and_bats_34
+  - first:
+      213: -1278530671550171267
+    second: rats_and_bats_35
+  - first:
+      213: 4435112256366643282
+    second: rats_and_bats_36
+  - first:
+      213: -1790528161932140555
+    second: rats_and_bats_37
+  - first:
+      213: 8061728262471650858
+    second: rats_and_bats_38
+  - first:
+      213: 321746327415493226
+    second: rats_and_bats_39
+  - first:
+      213: 5224738804764512547
+    second: rats_and_bats_40
+  - first:
+      213: 6919363535309933417
+    second: rats_and_bats_41
+  - first:
+      213: 7123587662228732767
+    second: rats_and_bats_42
+  - first:
+      213: 7797448694881231035
+    second: rats_and_bats_43
+  - first:
+      213: -1406854992562843148
+    second: rats_and_bats_44
+  - first:
+      213: 7150718830724733747
+    second: rats_and_bats_45
+  - first:
+      213: 9174506926732780718
+    second: rats_and_bats_46
+  - first:
+      213: 8808713802541870138
+    second: rats_and_bats_47
+  - first:
+      213: -4794378022694133708
+    second: rats_and_bats_48
+  - first:
+      213: 7810280050775726743
+    second: rats_and_bats_49
+  - first:
+      213: -5282658264461030659
+    second: rats_and_bats_50
+  - first:
+      213: 6872896617666341140
+    second: rats_and_bats_51
+  - first:
+      213: 4932747436373752057
+    second: rats_and_bats_52
+  - first:
+      213: -2615176233378764990
+    second: rats_and_bats_53
+  - first:
+      213: 1370631233704353255
+    second: rats_and_bats_54
+  - first:
+      213: 546490882741140693
+    second: rats_and_bats_55
+  - first:
+      213: 7869294956421423052
+    second: rats_and_bats_56
+  - first:
+      213: 6279744579178075869
+    second: rats_and_bats_57
+  - first:
+      213: 1600060101858046601
+    second: rats_and_bats_58
+  - first:
+      213: 3953605793580301443
+    second: rats_and_bats_59
+  - first:
+      213: -9210325704366743639
+    second: rats_and_bats_60
+  - first:
+      213: -3988272148068271771
+    second: rats_and_bats_61
+  - first:
+      213: -6330614064867594287
+    second: rats_and_bats_62
+  - first:
+      213: 1937966389729829696
+    second: rats_and_bats_63
+  - first:
+      213: -7709729970926090510
+    second: rats_and_bats_64
+  - first:
+      213: 3314930017426447343
+    second: rats_and_bats_65
+  - first:
+      213: 7765040934683203312
+    second: rats_and_bats_66
+  - first:
+      213: 1721261853677299463
+    second: rats_and_bats_67
+  - first:
+      213: 7002918786341176353
+    second: rats_and_bats_68
+  - first:
+      213: -6580760033146917139
+    second: rats_and_bats_69
+  - first:
+      213: 4373104956873932564
+    second: rats_and_bats_70
+  - first:
+      213: 5513867515454321504
+    second: rats_and_bats_71
+  - first:
+      213: -170022431625724365
+    second: rats_and_bats_72
+  - first:
+      213: -6693917650100532101
+    second: rats_and_bats_73
+  - first:
+      213: -5328470573215745935
+    second: rats_and_bats_74
+  - first:
+      213: -5829814990690394864
+    second: rats_and_bats_75
+  - first:
+      213: -8829495343877110299
+    second: rats_and_bats_76
+  - first:
+      213: 1296347931061246554
+    second: rats_and_bats_77
+  - first:
+      213: 5278652049912705298
+    second: rats_and_bats_78
+  - first:
+      213: 460598585395347933
+    second: rats_and_bats_79
+  - first:
+      213: 4922836250301897493
+    second: rats_and_bats_80
+  - first:
+      213: -2343060486497443287
+    second: rats_and_bats_81
+  - first:
+      213: 4815191350304586199
+    second: rats_and_bats_82
+  - first:
+      213: 2482103525226972725
+    second: rats_and_bats_83
+  - first:
+      213: 416454819925208981
+    second: rats_and_bats_84
+  - first:
+      213: 3866795904330459015
+    second: rats_and_bats_85
+  - first:
+      213: -3359022871588219544
+    second: rats_and_bats_86
+  - first:
+      213: 874494292061692084
+    second: rats_and_bats_87
+  - first:
+      213: -4838226294826101179
+    second: rats_and_bats_88
+  - first:
+      213: -1216457064837815282
+    second: rats_and_bats_89
+  - first:
+      213: -2021909824292794070
+    second: rats_and_bats_90
+  - first:
+      213: -3456700338710028964
+    second: rats_and_bats_91
+  - first:
+      213: -7269271042590181196
+    second: rats_and_bats_92
+  - first:
+      213: -8004601828280217845
+    second: rats_and_bats_93
+  - first:
+      213: -5307450815253900697
+    second: rats_and_bats_94
+  - first:
+      213: -8576604862154481551
+    second: rats_and_bats_95
+  - first:
+      213: -7869760195838582015
+    second: rats_and_bats_96
+  - first:
+      213: -6705860045008957550
+    second: rats_and_bats_97
+  - first:
+      213: 6122856764245046846
+    second: rats_and_bats_98
+  - first:
+      213: 3005276564050996179
+    second: rats_and_bats_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rats_and_bats_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 287
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26283c5e6deb6cbb0800000000000000
+      internalID: -4916032113041243550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 287
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126a35342850fe0b0800000000000000
+      internalID: -5697328946566945247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 287
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7985614da14cd7d0800000000000000
+      internalID: -2892364648296380038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 287
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04d5aa9c15de7010800000000000000
+      internalID: 1188621670502749199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 287
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc21bcabda9a13e0800000000000000
+      internalID: -2082181609419625224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 287
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2adf42b8e8bf0c0800000000000000
+      internalID: -4540879071000812853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 287
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f287d92fa1c79ae30800000000000000
+      internalID: 4515276556597033007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 287
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da1800432afd9db0800000000000000
+      internalID: -4783392199892526381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 287
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae984104ab7f380a0800000000000000
+      internalID: -6880383426380920342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 287
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b55e61299f856f00800000000000000
+      internalID: 1109450771070342582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 255
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e8b3f17f7df4fa0800000000000000
+      internalID: -5814191137531130294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 255
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdfb14e09b958e40800000000000000
+      internalID: 5658099553465531848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 255
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00271b6db15bf0040800000000000000
+      internalID: 4616107274248745472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 255
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53d681475fa24fd0800000000000000
+      internalID: -2359130465492348066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_14
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 255
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4983a11e7550d50800000000000000
+      internalID: 6702860244730025173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 255
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d317773856fe6dc50800000000000000
+      internalID: 6689797515781828925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 255
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02a001c8ab745580800000000000000
+      internalID: -8839304203898674675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 255
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d8980e5b154d1a0800000000000000
+      internalID: -6785708896942453377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_18
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 255
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39467d288d4e18bf0800000000000000
+      internalID: -323726079634742125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_19
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 255
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fecb24abd1e1ce0800000000000000
+      internalID: -1432674945636438113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 223
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f1084bb2aafd770800000000000000
+      internalID: 8637809715008511749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 223
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0542d48880a72520800000000000000
+      internalID: 2677285011699418379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 223
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf97c758694148e0800000000000000
+      internalID: -1711005670925951014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 223
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef6a1284633e1550800000000000000
+      internalID: 6133396249297711086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 223
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fefbeb25726308e0800000000000000
+      internalID: -1728429576592556297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 223
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d95e12d0aa2063c0800000000000000
+      internalID: -4368444768341042728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 223
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2783084cbf0e1bfd0800000000000000
+      internalID: -2327832160435685262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_27
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 223
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10302937599dd0220800000000000000
+      internalID: 2453856607899091713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 223
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e64c8c759858b000800000000000000
+      internalID: 51888794777700069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_29
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 223
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57286c8e7c9d49700800000000000000
+      internalID: 546300907445715573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 191
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a4af672e56073e0800000000000000
+      internalID: -2058033006375187824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 191
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0172145af5afb50800000000000000
+      internalID: 6627714964996427994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 191
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f899032df2f64f0800000000000000
+      internalID: -833394826235244655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_33
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 191
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6367093857c6e370800000000000000
+      internalID: 8351581740732998511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_34
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 191
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7051d38232d9e3280800000000000000
+      internalID: -9061632625898351353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 191
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d777fcfc02fb14ee0800000000000000
+      internalID: -1278530671550171267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_36
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 192
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25807b3591fac8d30800000000000000
+      internalID: 4435112256366643282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_37
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 191
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff93b39f14c627e0800000000000000
+      internalID: -1790528161932140555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_38
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 191
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e8950542301ef60800000000000000
+      internalID: 8061728262471650858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_39
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 191
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6213618492177400800000000000000
+      internalID: 321746327415493226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 159
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3211036d240028840800000000000000
+      internalID: 5224738804764512547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 159
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b80f99974860060800000000000000
+      internalID: 6919363535309933417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 159
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bbf758c311cd260800000000000000
+      internalID: 7123587662228732767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_43
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 159
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0aabc764a163c60800000000000000
+      internalID: 7797448694881231035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_44
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 159
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f19ecd86d8d97ce0800000000000000
+      internalID: -1406854992562843148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_45
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 159
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b5b02f3e47c3360800000000000000
+      internalID: 7150718830724733747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_46
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 159
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4a445f075625f70800000000000000
+      internalID: 9174506926732780718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_47
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 159
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ca6986886de3a70800000000000000
+      internalID: 8808713802541870138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_48
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 159
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430606e0792f67db0800000000000000
+      internalID: -4794378022694133708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_49
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 159
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a9ec65350b36c60800000000000000
+      internalID: 7810280050775726743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 138
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfac4051c4a30b6b0800000000000000
+      internalID: -5282658264461030659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_51
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 137
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4196cf14f0f616f50800000000000000
+      internalID: 6872896617666341140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_52
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 136
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8b6c798a3a47440800000000000000
+      internalID: 4932747436373752057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_53
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 135
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2472a60521705bbd0800000000000000
+      internalID: -2615176233378764990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_54
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 135
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edd00b58d5750310800000000000000
+      internalID: 1370631233704353255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_55
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 136
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc76caff86859700800000000000000
+      internalID: 546490882741140693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_56
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 137
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf954ec11a553d60800000000000000
+      internalID: 7869294956421423052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_57
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 138
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6181a5c62262750800000000000000
+      internalID: 6279744579178075869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_58
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 139
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98236866f2e843610800000000000000
+      internalID: 1600060101858046601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_59
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 138
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cb74ca5870ed630800000000000000
+      internalID: 3953605793580301443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 106
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af129df1995e2080800000000000000
+      internalID: -9210325704366743639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_61
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 105
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5697ec2bc9fc6a8c0800000000000000
+      internalID: -3988272148068271771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_62
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 105
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfa97d8c042528a0800000000000000
+      internalID: -6330614064867594287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_63
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 103
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0432e76e92a05ea10800000000000000
+      internalID: 1937966389729829696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_64
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 102
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f684c87079810590800000000000000
+      internalID: -7709729970926090510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_65
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 103
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb9bff994ff00e20800000000000000
+      internalID: 3314930017426447343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_66
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 103
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6d822d697f2cb60800000000000000
+      internalID: 7765040934683203312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_67
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 104
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707add9498623e710800000000000000
+      internalID: 1721261853677299463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_68
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 104
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12486ca788d5f2160800000000000000
+      internalID: 7002918786341176353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_69
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 106
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deea030cd917ca4a0800000000000000
+      internalID: -6580760033146917139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 75
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f78ffd9c360bc30800000000000000
+      internalID: 4373104956873932564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 74
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0637835aa41358c40800000000000000
+      internalID: 5513867515454321504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_72
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 73
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33eb91fcf75f3adf0800000000000000
+      internalID: -170022431625724365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_73
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c4a06fc5d6a13a0800000000000000
+      internalID: -6693917650100532101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_74
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 72
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1787a5fbe387d06b0800000000000000
+      internalID: -5328470573215745935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_75
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 73
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dd6a55726581fa0800000000000000
+      internalID: -5829814990690394864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_76
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 74
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e54d32f3c4577580800000000000000
+      internalID: -8829495343877110299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_77
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 75
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ad730339d8df110800000000000000
+      internalID: 1296347931061246554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_78
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 76
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2113fe7621a814940800000000000000
+      internalID: 5278652049912705298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_79
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 75
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1898a19ff546600800000000000000
+      internalID: 460598585395347933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 42
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b19a2cc7d615440800000000000000
+      internalID: 4922836250301897493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_81
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 42
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922e01fc6e6cb7fd0800000000000000
+      internalID: -2343060486497443287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_82
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 40
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d93078650ff2d240800000000000000
+      internalID: 4815191350304586199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_83
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 38
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53606e46104327220800000000000000
+      internalID: 2482103525226972725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_84
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 36
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f24a6c37b87c500800000000000000
+      internalID: 416454819925208981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_85
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 35
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7876d88436e99a530800000000000000
+      internalID: 3866795904330459015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_86
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 35
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8655292ce7a5261d0800000000000000
+      internalID: -3359022871588219544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_87
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0a174ece3d22c00800000000000000
+      internalID: 874494292061692084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_88
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 39
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5469fe1a1da2bdcb0800000000000000
+      internalID: -4838226294826101179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_89
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 41
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04e3dd9eb64e1fe0800000000000000
+      internalID: -1216457064837815282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_90
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 10
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21d7233abbb0f3e0800000000000000
+      internalID: -2021909824292794070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_91
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 9
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d57383b555700d0800000000000000
+      internalID: -3456700338710028964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_92
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 8
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8f062408c5e1b90800000000000000
+      internalID: -7269271042590181196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_93
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 6
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f4ae02c01f9e090800000000000000
+      internalID: -8004601828280217845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_94
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7621fe58a952856b0800000000000000
+      internalID: -5307450815253900697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_95
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170e4649157c9f880800000000000000
+      internalID: -8576604862154481551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_96
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10368833ccef8c290800000000000000
+      internalID: -7869760195838582015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_97
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 0
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f81c771dfffe2a0800000000000000
+      internalID: -6705860045008957550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_98
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e367c6b69c1c8f450800000000000000
+      internalID: 6122856764245046846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rats_and_bats_99
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbe014cc13e4b920800000000000000
+      internalID: 3005276564050996179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rats_and_bats_0: -4916032113041243550
+      rats_and_bats_1: -5697328946566945247
+      rats_and_bats_10: -5814191137531130294
+      rats_and_bats_11: 5658099553465531848
+      rats_and_bats_12: 4616107274248745472
+      rats_and_bats_13: -2359130465492348066
+      rats_and_bats_14: 6702860244730025173
+      rats_and_bats_15: 6689797515781828925
+      rats_and_bats_16: -8839304203898674675
+      rats_and_bats_17: -6785708896942453377
+      rats_and_bats_18: -323726079634742125
+      rats_and_bats_19: -1432674945636438113
+      rats_and_bats_2: -2892364648296380038
+      rats_and_bats_20: 8637809715008511749
+      rats_and_bats_21: 2677285011699418379
+      rats_and_bats_22: -1711005670925951014
+      rats_and_bats_23: 6133396249297711086
+      rats_and_bats_24: -1728429576592556297
+      rats_and_bats_25: -4368444768341042728
+      rats_and_bats_26: -2327832160435685262
+      rats_and_bats_27: 2453856607899091713
+      rats_and_bats_28: 51888794777700069
+      rats_and_bats_29: 546300907445715573
+      rats_and_bats_3: 1188621670502749199
+      rats_and_bats_30: -2058033006375187824
+      rats_and_bats_31: 6627714964996427994
+      rats_and_bats_32: -833394826235244655
+      rats_and_bats_33: 8351581740732998511
+      rats_and_bats_34: -9061632625898351353
+      rats_and_bats_35: -1278530671550171267
+      rats_and_bats_36: 4435112256366643282
+      rats_and_bats_37: -1790528161932140555
+      rats_and_bats_38: 8061728262471650858
+      rats_and_bats_39: 321746327415493226
+      rats_and_bats_4: -2082181609419625224
+      rats_and_bats_40: 5224738804764512547
+      rats_and_bats_41: 6919363535309933417
+      rats_and_bats_42: 7123587662228732767
+      rats_and_bats_43: 7797448694881231035
+      rats_and_bats_44: -1406854992562843148
+      rats_and_bats_45: 7150718830724733747
+      rats_and_bats_46: 9174506926732780718
+      rats_and_bats_47: 8808713802541870138
+      rats_and_bats_48: -4794378022694133708
+      rats_and_bats_49: 7810280050775726743
+      rats_and_bats_5: -4540879071000812853
+      rats_and_bats_50: -5282658264461030659
+      rats_and_bats_51: 6872896617666341140
+      rats_and_bats_52: 4932747436373752057
+      rats_and_bats_53: -2615176233378764990
+      rats_and_bats_54: 1370631233704353255
+      rats_and_bats_55: 546490882741140693
+      rats_and_bats_56: 7869294956421423052
+      rats_and_bats_57: 6279744579178075869
+      rats_and_bats_58: 1600060101858046601
+      rats_and_bats_59: 3953605793580301443
+      rats_and_bats_6: 4515276556597033007
+      rats_and_bats_60: -9210325704366743639
+      rats_and_bats_61: -3988272148068271771
+      rats_and_bats_62: -6330614064867594287
+      rats_and_bats_63: 1937966389729829696
+      rats_and_bats_64: -7709729970926090510
+      rats_and_bats_65: 3314930017426447343
+      rats_and_bats_66: 7765040934683203312
+      rats_and_bats_67: 1721261853677299463
+      rats_and_bats_68: 7002918786341176353
+      rats_and_bats_69: -6580760033146917139
+      rats_and_bats_7: -4783392199892526381
+      rats_and_bats_70: 4373104956873932564
+      rats_and_bats_71: 5513867515454321504
+      rats_and_bats_72: -170022431625724365
+      rats_and_bats_73: -6693917650100532101
+      rats_and_bats_74: -5328470573215745935
+      rats_and_bats_75: -5829814990690394864
+      rats_and_bats_76: -8829495343877110299
+      rats_and_bats_77: 1296347931061246554
+      rats_and_bats_78: 5278652049912705298
+      rats_and_bats_79: 460598585395347933
+      rats_and_bats_8: -6880383426380920342
+      rats_and_bats_80: 4922836250301897493
+      rats_and_bats_81: -2343060486497443287
+      rats_and_bats_82: 4815191350304586199
+      rats_and_bats_83: 2482103525226972725
+      rats_and_bats_84: 416454819925208981
+      rats_and_bats_85: 3866795904330459015
+      rats_and_bats_86: -3359022871588219544
+      rats_and_bats_87: 874494292061692084
+      rats_and_bats_88: -4838226294826101179
+      rats_and_bats_89: -1216457064837815282
+      rats_and_bats_9: 1109450771070342582
+      rats_and_bats_90: -2021909824292794070
+      rats_and_bats_91: -3456700338710028964
+      rats_and_bats_92: -7269271042590181196
+      rats_and_bats_93: -8004601828280217845
+      rats_and_bats_94: -5307450815253900697
+      rats_and_bats_95: -8576604862154481551
+      rats_and_bats_96: -7869760195838582015
+      rats_and_bats_97: -6705860045008957550
+      rats_and_bats_98: 6122856764245046846
+      rats_and_bats_99: 3005276564050996179
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

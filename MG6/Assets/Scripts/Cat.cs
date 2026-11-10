@@ -15,7 +15,6 @@ public class Cat : MonoBehaviour
     private bool _facingLeft;
     private bool _isGrounded = true;
     private float _attackTime;
-
     // ------------------------------------------------------------------------
     private void Update()
     {
@@ -35,7 +34,7 @@ public class Cat : MonoBehaviour
                 _jump
             );
         }
-
+     
         _attackTime -= Time.deltaTime;
         if (Input.GetKey(KeyCode.LeftShift) && _attackTime <= 0.0f)
         {
@@ -64,7 +63,14 @@ public class Cat : MonoBehaviour
         //      collider.
         // You might want to check the Rigidbody2D scripting documentation
         //      for a useful variable :)
-        
+        if (_rigidbody.linearVelocityY>0.01)
+        {
+            _collider.enabled=false;
+        }
+        if (_rigidbody.linearVelocityY<0.01)
+        {
+            _collider.enabled=true;
+        }
 
         
         // STEP 1 -------------------------------------------------------------
